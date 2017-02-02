@@ -29,6 +29,9 @@ gem 'sass', '3.2.19'
 gem 'jbuilder', '~> 2.5'
 gem 'rake', '< 11.0'
 gem 'bower-rails'
+gem 'bootstrap-sass', '3.2.0.2'
+gem 'angular-rails-templates'
+
 group :test, :development do
   gem "rspec-rails", "~> 2.0"
   gem "factory_girl_rails", "~> 4.0"
