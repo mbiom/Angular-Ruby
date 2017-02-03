@@ -15,7 +15,7 @@ recipekul.config([ '$routeProvider',
 				templateUrl: "index.html"
 				controller: 'RecipesController'
 			)
-])
+	])
 
 recipes = [
 	{
